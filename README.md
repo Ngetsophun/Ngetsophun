@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ** Android and IOS Mobile **
 - 🌱 I’m currently learning KMP
 - 👯 I’m looking to collaborate on Mobile, Web and Backend Dev Projects
-- 🤔 I’m looking for help with everyOne
 - 💬 Ask me about Technology and Persional Development
 - 📫 How to reach me: ngetsophun@gmail.com
 - 😄 Pronouns: He/Hin
