@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mobile, Web and Backend Dev Projects
 - 💬 Ask me about Technology and Persional Development
 - 📫 How to reach me: ngetsophun@gmail.com
-- 😄 Pronouns: He/Hin
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run a YouTube Channel
   
 ## 🌐 Socials:
